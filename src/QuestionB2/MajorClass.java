@@ -1,4 +1,4 @@
-package Question12;
+package QuestionB2;
 
 public class MajorClass {
 
